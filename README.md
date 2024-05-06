@@ -13,3 +13,9 @@ List of speech synthesis papers.
 - [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](https://arxiv.org/pdf/2404.03204.pdf) (arXiv 2024)
 - [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100.pdf) (arXiv 2024)
 - [BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data](https://arxiv.org/pdf/2402.08093.pdf) (arXiv 2024)
+## Codec method
+- [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/pdf/2107.03312) (TASLP 2021)
+- Encodec: [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) (arXiv 2022)
+- [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/pdf/2305.02765) (arXiv 2023)
+- [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec](https://arxiv.org/pdf/2305.02765) (ICASSP 2023)
+- TiCodec: [Fewer-Token Neural Speech Codec with Time-Invariant Codes](https://arxiv.org/pdf/2310.00014) (ICASSP 2024)
