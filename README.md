@@ -19,3 +19,4 @@ List of speech synthesis papers.
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/pdf/2305.02765) (arXiv 2023)
 - [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec](https://arxiv.org/pdf/2305.02765) (ICASSP 2023)
 - TiCodec: [Fewer-Token Neural Speech Codec with Time-Invariant Codes](https://arxiv.org/pdf/2310.00014) (ICASSP 2024)
+- [Funcodec: A fundamental, reproducible and integrable open-source toolkit for neural speech codec](https://arxiv.org/pdf/2309.07405) (ICASSP 2024)
