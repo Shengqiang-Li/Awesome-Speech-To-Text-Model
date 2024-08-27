@@ -13,6 +13,13 @@ List of speech synthesis papers.
 - [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](https://arxiv.org/pdf/2404.03204.pdf) (arXiv 2024)
 - [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100.pdf) (arXiv 2024)
 - [BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data](https://arxiv.org/pdf/2402.08093.pdf) (arXiv 2024)
+- [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2406.05370) (arXiv 2024)
+- MELLE: [Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/pdf/2407.08551) (arXiv 2024)
+- CosyVoice: [A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://arxiv.org/pdf/2407.05407) (arXiv 2024)
+- Seed-TTS: [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430) (arXiv 2024)
+## AR-Diffusion method
+- [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://arxiv.org/pdf/2310.01381) (ICLR 2024)
+- [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://arxiv.org/pdf/2406.05551) (arXiv 2024)
 ## Codec method
 - [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/pdf/2107.03312) (TASLP 2021)
 - Encodec: [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) (arXiv 2022)
