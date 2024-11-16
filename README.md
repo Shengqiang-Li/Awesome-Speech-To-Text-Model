@@ -1,6 +1,6 @@
 # Awesome-Speech-To-Text-Model
 List of speech-to-text papers.
-## LLM-based method
+## LLM method
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://proceedings.neurips.cc/paper_files/paper/2022/file/69c754f571806bf15add18556ff39b4f-Paper-Conference.pdf) (2022 NeurIPS)
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/pdf/2311.12454.pdf) (arXiv 2023)
 - VALL-E: [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2301.02111.pdf) (arXiv 2023)
@@ -17,7 +17,7 @@ List of speech-to-text papers.
 - MELLE: [Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/pdf/2407.08551) (arXiv 2024)
 - CosyVoice: [A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://arxiv.org/pdf/2407.05407) (arXiv 2024)
 - Seed-TTS: [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430) (arXiv 2024)
-## AR-Diffusion method
+## Diffusion method
 - [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://arxiv.org/pdf/2310.01381) (ICLR 2024)
 - [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://arxiv.org/pdf/2406.05551) (arXiv 2024)
 ## Codec method
