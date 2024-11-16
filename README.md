@@ -1,5 +1,5 @@
 # Awesome-Speech-To-Text-Model
-List of speech synthesis papers.
+List of speech-to-text papers.
 ## LLM-based method
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://proceedings.neurips.cc/paper_files/paper/2022/file/69c754f571806bf15add18556ff39b4f-Paper-Conference.pdf) (2022 NeurIPS)
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/pdf/2311.12454.pdf) (arXiv 2023)
