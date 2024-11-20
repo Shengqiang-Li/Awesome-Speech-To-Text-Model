@@ -16,10 +16,13 @@ List of speech-to-text papers.
 - [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/pdf/2406.05370) (arXiv 2024)
 - MELLE: [Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/pdf/2407.08551) (arXiv 2024)
 - CosyVoice: [A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://arxiv.org/pdf/2407.05407) (arXiv 2024)
-- Seed-TTS: [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430) (arXiv 2024)
+- [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430) (arXiv 2024)
+- [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](https://arxiv.org/pdf/2409.03283) (arXiv 2024)
 ## Diffusion method
 - [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://arxiv.org/pdf/2310.01381) (ICLR 2024)
 - [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://arxiv.org/pdf/2406.05551) (arXiv 2024)
+- [F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://arxiv.org/pdf/2410.06885) (arXiv 2024)
+- [MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://arxiv.org/pdf/2409.00750) (arXiv 2024)
 ## Codec method
 - [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/pdf/2107.03312) (TASLP 2021)
 - Encodec: [High Fidelity Neural Audio Compression](https://arxiv.org/pdf/2210.13438) (arXiv 2022)
@@ -27,3 +30,5 @@ List of speech-to-text papers.
 - [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec](https://arxiv.org/pdf/2305.02765) (ICASSP 2023)
 - TiCodec: [Fewer-Token Neural Speech Codec with Time-Invariant Codes](https://arxiv.org/pdf/2310.00014) (ICASSP 2024)
 - [Funcodec: A fundamental, reproducible and integrable open-source toolkit for neural speech codec](https://arxiv.org/pdf/2309.07405) (ICASSP 2024)
+## Corpus
+- [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://arxiv.org/pdf/2407.05361) (arXiv 2024)
