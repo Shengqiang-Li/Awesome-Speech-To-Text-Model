@@ -30,5 +30,7 @@ List of speech-to-text papers.
 - [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec](https://arxiv.org/pdf/2305.02765) (ICASSP 2023)
 - TiCodec: [Fewer-Token Neural Speech Codec with Time-Invariant Codes](https://arxiv.org/pdf/2310.00014) (ICASSP 2024)
 - [Funcodec: A fundamental, reproducible and integrable open-source toolkit for neural speech codec](https://arxiv.org/pdf/2309.07405) (ICASSP 2024)
+- [Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation](https://arxiv.org/pdf/2406.07422) (InterSpeech 2024)
+- [SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis](https://arxiv.org/pdf/2409.00933) (SLT 2024)
 ## Corpus
 - [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://arxiv.org/pdf/2407.05361) (arXiv 2024)
