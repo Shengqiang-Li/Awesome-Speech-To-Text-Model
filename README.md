@@ -32,5 +32,9 @@ List of speech-to-text papers.
 - [Funcodec: A fundamental, reproducible and integrable open-source toolkit for neural speech codec](https://arxiv.org/pdf/2309.07405) (ICASSP 2024)
 - [Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation](https://arxiv.org/pdf/2406.07422) (InterSpeech 2024)
 - [SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis](https://arxiv.org/pdf/2409.00933) (SLT 2024)
+- [PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain](https://aclanthology.org/2024.findings-emnlp.246.pdf) (arXiv 2024)
+- [Scaling Transformers for Low-Bitrate High-Quality Speech Coding](https://arxiv.org/pdf/2411.19842) (arXiv 2024)
+- [FreeCodec: A disentangled neural speech codec with fewer tokens](https://arxiv.org/pdf/2412.01053) (arXiv 2024)
+- [TS3-Codec: Transformer-Based Simple Streaming Single Codec](https://arxiv.org/pdf/2411.18803) (arXiv 2024)
 ## Corpus
 - [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://arxiv.org/pdf/2407.05361) (arXiv 2024)
