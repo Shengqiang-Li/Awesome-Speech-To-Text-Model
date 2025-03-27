@@ -18,6 +18,11 @@ List of speech-to-text papers.
 - CosyVoice: [A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://arxiv.org/pdf/2407.05407) (arXiv 2024)
 - [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/pdf/2406.02430) (arXiv 2024)
 - [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](https://arxiv.org/pdf/2409.03283) (arXiv 2024)
+- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://arxiv.org/pdf/2412.10117) (arXiv 2024)
+- [Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis](https://arxiv.org/pdf/2502.04128) (arXiv 2025)
+- [IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System](https://arxiv.org/pdf/2502.05512) (arXiv 2025)
+- [Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens](https://arxiv.org/pdf/2503.01710) (arXiv 2025)
+- [Orpheus-TTS](https://canopylabs.ai/model-releases) (arXiv 2025)
 ## Diffusion method
 - [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://arxiv.org/pdf/2310.01381) (ICLR 2024)
 - [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://arxiv.org/pdf/2406.05551) (arXiv 2024)
@@ -35,6 +40,11 @@ List of speech-to-text papers.
 - [PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain](https://aclanthology.org/2024.findings-emnlp.246.pdf) (arXiv 2024)
 - [Scaling Transformers for Low-Bitrate High-Quality Speech Coding](https://arxiv.org/pdf/2411.19842) (arXiv 2024)
 - [FreeCodec: A disentangled neural speech codec with fewer tokens](https://arxiv.org/pdf/2412.01053) (arXiv 2024)
+- [SNAC: Multi-Scale Neural Audio Codec](https://arxiv.org/pdf/2410.14411) (arXiv 2024)
+- [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/pdf/2405.00233) (JSTSP 2024)
 - [TS3-Codec: Transformer-Based Simple Streaming Single Codec](https://arxiv.org/pdf/2411.18803) (arXiv 2024)
+- stable-codec [Scaling Transformers for Low-Bitrate High-Quality Speech Coding](https://arxiv.org/pdf/2411.19842) (arXiv 2024)
+- [X-Codec-2.0](https://arxiv.org/pdf/2502.04128) (arXiv 2025)
+- [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling](https://arxiv.org/pdf/2408.16532) (ICLR 2025)
 ## Corpus
 - [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://arxiv.org/pdf/2407.05361) (arXiv 2024)
